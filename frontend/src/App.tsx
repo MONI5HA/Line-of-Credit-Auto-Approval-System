@@ -49,7 +49,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
       {/* Header */}
-      <header className="bg-blue-600 text-white py-4 px-8 shadow-md">
+      <header className="bg-green-600 text-white py-10 px-10 shadow-md">
         <h1 className="text-2xl font-bold">Credit Approval System</h1>
       </header>
 
@@ -82,7 +82,7 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-blue-600 text-white text-center py-4 mt-8">
+      <footer className="bg-green-600 text-white text-center py-4 mt-8">
         <p>&copy; 2025 Credit Approval System. All rights reserved.</p>
       </footer>
 
