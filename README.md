@@ -155,6 +155,10 @@ The system uses three separate models:
 2. **Credit Limit Model**: Regression model to predict credit limit (for approved applications)
 3. **Interest Rate Model**: Regression model to predict interest rate (for approved applications)
 
+
+https://github.com/user-attachments/assets/e88cb364-304b-4445-9914-f65302de51ac
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
